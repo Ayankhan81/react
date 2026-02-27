@@ -1,3 +1,9 @@
+import App from "./function.js";
+import {Navbar} from "./function.js"
+
+console.log(App());
+
+
 // Explicit rerurn
 const greet=()=>{
     return "Welcome"
